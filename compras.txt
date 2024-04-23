@@ -5,3 +5,5 @@ Cereal
 Carne 
 Queso
 Pan
+Huevos
+Soda
